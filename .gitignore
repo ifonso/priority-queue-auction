@@ -1,0 +1,9 @@
+# idle config
+.vscode/
+
+# macOS
+.DS_Store
+
+# compiled output
+out.dSYM/
+out
